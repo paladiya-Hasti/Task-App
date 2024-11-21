@@ -1,8 +1,7 @@
 
 
 import '../App.css';
-import CustomButton from './CustomButton';
-
+import '../component/CustomButton'
 function Header(props) {
     return ( 
         <div className='header' >

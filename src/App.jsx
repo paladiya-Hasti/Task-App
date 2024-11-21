@@ -1,8 +1,5 @@
-
-
-
-import './App.css';
-import CustomButton from './Component/CustomButton';
+import './App.css' 
+import CustomButton from './component/CustomButton';
 import CustomInput from './Component/CustomInput';
 import Header from './Component/Header';
 import Card from './Component/Card';
